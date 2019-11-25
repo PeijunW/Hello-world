@@ -1,5 +1,4 @@
 # Hello-world
-For testing
 
 Hi everybody!
 This is my first try to learn programming.
